@@ -1,0 +1,6 @@
+./backend/.env
+./backend/.env.bat
+./backend/db.sqlite3
+./backend/venv
+./fontend/node_modules
+./fontend/.env

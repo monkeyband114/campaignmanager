@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+
+body {
+  background: radial-gradient(circle at center, #104e68 , #033e43);
+  color: azure;
+}
+
+p {
+  font-family: var(--font-nunito);
+}
+
+/* .card {
+  background: radial-gradient(circle at top, #03123e , #033e43);
+} */
