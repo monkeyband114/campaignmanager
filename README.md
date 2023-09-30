@@ -58,5 +58,5 @@ To set up and run the Django Ad Campaign Manager, follow these general steps:
 
 For any questions or inquiries, please contact:
 
-michael Adawaren
+michael Adawaren voke
 hudskings@gmail.com
