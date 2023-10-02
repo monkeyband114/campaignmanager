@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a research report that provides comprehensive documentation for the Django Ad Campaign Manager project. The project is designed to manage advertising campaigns and is divided into two major components: the backend, which utilizes Django Rest Framework (DRF) and drf-yasg for API documentation, and the frontend, built with Next.js and Tailwind CSS.
+This is a documentation for the Django Ad Campaign Manager project. The project is designed to manage advertising campaigns and is divided into two major components: the backend, which utilizes Django Rest Framework (DRF) and drf-yasg for API documentation, and the frontend, built with Next.js and Tailwind CSS.
 
 ## Project Structure
 
